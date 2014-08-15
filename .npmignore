@@ -2,4 +2,8 @@ node_modules
 components
 build
 
+csh
+psd
+svg
+
 npm-debug.log
