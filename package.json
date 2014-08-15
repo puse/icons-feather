@@ -21,8 +21,8 @@
     "Mushex Antaranian <mushex@antaranian.com>"
   ],
   "files": [
-    "fonts/",
-    "webfont/"
+    "feather.css",
+    "fonts/"
   ],
   "style": "feather.css",
   "scripts": {
