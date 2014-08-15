@@ -12,9 +12,9 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "webfont/feather-webfont/feather.css",
+  "main": "feather.css",
   "styles": [
-    "webfont/feather-webfont/feather.css"
+    "feather.css"
   ],
   "fonts": [
     "fonts/*"

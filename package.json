@@ -24,7 +24,7 @@
     "fonts/",
     "webfont/"
   ],
-  "style": "webfont/feather-webfont/feather.css",
+  "style": "feather.css",
   "engines": {
     "node": ">=0.10.0"
   },
