@@ -25,6 +25,10 @@
     "webfont/"
   ],
   "style": "feather.css",
+  "scripts": {
+    "build": "make build",
+    "prepublish": "make build-dev"
+  },
   "engines": {
     "node": ">=0.10.0"
   },
